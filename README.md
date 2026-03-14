@@ -1,48 +1,34 @@
-\# AI Survey Feedback Analyzer
+**AI Survey Feedback Analyzer**
 
 
 
-\## Project Overview
+* Project Overview:
 
-This project analyzes employee survey responses using Python.
+&#x20; This project analyzes employee survey responses using Python. It classifies the responses into
 
-It classifies responses into positive, negative, and neutral categories.
+&#x20; positive, negative, and neutral categories. 
 
+* Technologies Used are:
 
+&#x20; Python
 
-\## Technologies Used
+&#x20; TextBlob
 
-Python
+&#x20; Matplotlib
 
-TextBlob
+* Project Files:
 
-Matplotlib
+&#x20; analyzer.py - Python program that analyzes the survey feedback
 
+&#x20; survey\_data.txt - Sample employee survey responses
 
+* How to Run:
 
-\## Project Files
+&#x20; libraries that are used are:
 
-analyzer.py - Python program that analyzes survey feedback  
+&#x20; textblob, matplotlib
 
-survey\_data.txt - Sample employee survey responses  
-
-
-
-\## How to Run
-
-
-
-Install libraries:
-
-pip install textblob matplotlib
+* After running the program the result will be shown as the sample data that is taken in the file.
 
 
-
-Run the program:
-
-python analyzer.py
-
-
-
-Done by Majji Sanjana
 
